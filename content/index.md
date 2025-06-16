@@ -2,5 +2,13 @@
 title: "Winter: The Ice-Flower Megadoc"
 ---
 
-<!-- this should not be visible -->
-heyyy
+<!--
+save changes with:
+cd documents/snowflake
+npx quartz sync
+
+view site with:
+https://grisnyx.github.io/snowflake/
+-->
+
+is this thing on
